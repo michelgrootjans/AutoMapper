@@ -14,3 +14,5 @@ TestResult.xml
 AppPackages/
 *.bak
 packages
+src/_UpgradeReport_Files
+UpgradeLog.*
